@@ -11,7 +11,7 @@
 | 說法 | 實測 | t 值 |
 |---|---|---|
 | [跟著外資買有用嗎？](https://learn.kbarlab.com/inst) | 實測裡訊號最強的一個 | 4.49 |
-| [「量先價行」是真的嗎？](https://learn.kbarlab.com/volume) | 量能最縮的那組明顯落後；放量那組相對較好 | 3.21 |
+| [「量先價行」是真的嗎？](https://learn.kbarlab.com/volume) | 差在量能最縮的那端：最縮的那組明顯落後，放量那端沒有特別突出 | 3.21 |
 | [RSI 超買就該賣嗎？](https://learn.kbarlab.com/rsi) | RSI 最高的那組反而較強，「超買就賣」不成立 | 2.65 |
 | [KD 高檔超買、低檔超賣？](https://learn.kbarlab.com/kd) | 看不出訊號 | 0.36 |
 | [MACD 柱狀體越強越會漲？](https://learn.kbarlab.com/macd) | 看不出訊號 | 0.31 |
